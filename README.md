@@ -55,7 +55,7 @@ sudo apt update && sudo apt install zip unzip -y
 4️⃣ Baixe o instalador:
 
 ```bash
-sudo apt install -y git && git clone https://github.com/launcherbr/instaladormultizap.git instalador && sudo chmod -R 777 instalador  && cd instalador  && sudo ././install_primaria
+sudo apt install -y git && git clone https://github.com/launcherbr/instaladormultizap.git instalador && sudo chmod -R 777 instalador  && cd instalador  && sudo ./install_primaria
 ```
 ===================================================
 
