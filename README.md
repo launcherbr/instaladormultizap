@@ -1,4 +1,4 @@
-# Whaticket versão KMenu
+# Whaticket versão Multizap
 
 Não oferecemos suporte a essa versão.
 
