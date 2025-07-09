@@ -1,6 +1,6 @@
 # Whaticket versão Multizap
 
-Não oferecemos suporte a essa versão.
+O suporte a essa versão é limitado.
 
 1️⃣ No Ubuntu 22 criar o Usuário deploy:
 
