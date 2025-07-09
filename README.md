@@ -91,3 +91,48 @@ Realizar o rebuild dentro do backend:
 sudo su deploy 
 pm2 stop all && npm run build && pm2 restart all && sudo reboot now
 ```
+
+===================================================
+Personalizações:
+TROCAR NOME APP MÓVEL
+
+frontend/public/manifest.json
+
+Troque pelo nome da sua empresa
+
+linhas: 2 e 3
+
+------------------------------------------
+
+LOGO DA TELA DE LOGIN 
+
+frontend/public
+logo.png
+
+------------------------------------------
+
+PERSONALIZAÇÃO INTERNA
+----------------------
+frontend\src\pages\Login/index
+
+TROCAR CAPA DO SISTEMA
+Linha: 24 (link do arquivo)
+Modelo 1 - https://i.ibb.co/bjWb8wtF/20250619-1156-Chatbot-no-Futuro-Digital-remix-01jy4azzb1fhfr62wpj150st74.png
+
+Modelo 2 - https://i.ibb.co/9mrhK8xN/20250619-1156-Chatbot-no-Futuro-Digital-remix-01jy4azzb0fnqsfbcs1d0a9sex.png
+
+
+TROCAR NÚMERO WHATSAPP TELA INICIAL
+Linha:295
+
+TROCAR ÍCONE DO WHATSAPP
+Linha: 298 - https://i.ibb.co/rRckh8MF/favicon-256x256.png
+
+
+
+Comando no TERMINAL
+
+cd /home/deploy/empresa01/frontend && npm i --f && npm run build
+
+----------------------------------------
+PRONTO FINALIZADO!
