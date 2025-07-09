@@ -72,6 +72,16 @@ senha: 123456
 
 ===================================================
 
+Corrigir deploy do frontend:
+```bash
+su deploy
+pm2 stop all
+cd .../frontend
+npm run build --force
+pm2 restart all
+```
+
+
 Integração Mercado Pago.
 Editar o .env do backend
 
