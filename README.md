@@ -121,14 +121,11 @@ Modelo 1 - https://i.ibb.co/bjWb8wtF/20250619-1156-Chatbot-no-Futuro-Digital-rem
 
 Modelo 2 - https://i.ibb.co/9mrhK8xN/20250619-1156-Chatbot-no-Futuro-Digital-remix-01jy4azzb0fnqsfbcs1d0a9sex.png
 
-
 TROCAR NÚMERO WHATSAPP TELA INICIAL
 Linha:295
 
 TROCAR ÍCONE DO WHATSAPP
 Linha: 298 - https://i.ibb.co/rRckh8MF/favicon-256x256.png
-
-
 
 Comando no TERMINAL
 
