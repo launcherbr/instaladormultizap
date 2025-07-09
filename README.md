@@ -110,7 +110,6 @@ frontend/public
 logo.png
 
 ------------------------------------------
-
 PERSONALIZAÇÃO INTERNA
 ----------------------
 frontend\src\pages\Login/index
