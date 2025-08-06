@@ -119,7 +119,7 @@ LOGO DA TELA DE LOGIN
 frontend/public
 logo.png
 
-------------------------------------------
+------------------------------------------</br>
 PERSONALIZAÇÃO INTERNA
 ----------------------
 frontend\src\pages\Login/index
