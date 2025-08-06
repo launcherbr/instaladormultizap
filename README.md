@@ -124,19 +124,19 @@ PERSONALIZAÇÃO INTERNA
 ----------------------
 frontend\src\pages\Login/index
 
-TROCAR CAPA DO SISTEMA
-Linha: 24 (link do arquivo)
-Modelo 1 - https://i.ibb.co/bjWb8wtF/20250619-1156-Chatbot-no-Futuro-Digital-remix-01jy4azzb1fhfr62wpj150st74.png
+TROCAR CAPA DO SISTEMA</br>
+Linha: 24 (link do arquivo)</br>
+Modelo 1 - https://i.ibb.co/bjWb8wtF/20250619-1156-Chatbot-no-Futuro-Digital-remix-01jy4azzb1fhfr62wpj150st74.png</br>
 
 Modelo 2 - https://i.ibb.co/9mrhK8xN/20250619-1156-Chatbot-no-Futuro-Digital-remix-01jy4azzb0fnqsfbcs1d0a9sex.png
 
-TROCAR NÚMERO WHATSAPP TELA INICIAL
+TROCAR NÚMERO WHATSAPP TELA INICIAL</br>
 Linha:295
 
-TROCAR ÍCONE DO WHATSAPP
+TROCAR ÍCONE DO WHATSAPP</br>
 Linha: 298 - https://i.ibb.co/rRckh8MF/favicon-256x256.png
 
-Comando no TERMINAL
+Comando no TERMINAL</br>
 
 cd /home/deploy/empresa01/frontend && npm i --f && npm run build
 
